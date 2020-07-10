@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Chris House
 - 🔭 I’m currently working on Angular 10
 
 You can follow some of my writings at https://medium.com/@chrishouse
