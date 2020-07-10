@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Angular 10
+
+You can follow some of my writings at https://medium.com/@chrishouse
 
 <!--
 **crh225/crh225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
