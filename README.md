@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Chris House
-- 🔭 I’m currently working on Angular 12
+- 🔭 I’m currently working on Angular 13
 
 You can follow some of my writings at https://medium.com/@chrishouse
 
